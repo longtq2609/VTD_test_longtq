@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VTD_test_longtq</string>
+
+    <!-- List Countries Screen -->
+    <string name="title_list_countries">List Countries</string>
+    <!-- Detail Countries Screen -->
+    <string name="title_detail_countries">Detail Countries</string>
+
+</resources>
